@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog"
+  },
+  "cta": {
+    "title": "Book your trip to Korea now!",
+    "button": "Request Travel Consultation"
+  },
+  "footer": {
+    "copyright": "© 2025 Net Tour. All rights reserved.",
+    "contact": "Contact: info@nettour.com"
+  },
+  "home": {
+    "heroTitle": "Welcome to Korea Inbound Specialized Travel Agency",
+    "heroDescription": "Explore customized trips, packages, and cultural experiences now.",
+    "featuresTitle1": "Custom Travel Service",
+    "feature1": "We create an itinerary just for you.",
+    "featuresTitle2": "Guided Tour Packages",
+    "feature2": "Enjoy popular tour packages crafted by professionals.",
+    "featuresTitle3": "Cultural Experiences",
+    "feature3": "Experience Korean tradition and culture firsthand."
+  },
+  "about": {
+    "title": "About Us",
+    "introduction": "Korea Inbound Specialized Travel Agency was founded with the mission to bridge cultures and connect travelers to the heart of Korea. Since our inception, we've welcomed thousands of international guests, offering them tailored travel services.",
+    "missionTitle": "Our Mission",
+    "mission": "To provide immersive, authentic travel experiences in Korea with outstanding hospitality.",
+    "visionTitle": "Our Vision",
+    "vision": "To be the most trusted and innovative Korea inbound travel agency for global travelers.",
+    "timelineTitle": "Our Journey",
+    "timeline": [
+      { "year": "2015", "event": "Agency founded in Seoul" },
+      { "year": "2016", "event": "Launched first guided temple stay program" },
+      { "year": "2018", "event": "Reached 10,000 international customers" },
+      { "year": "2020", "event": "Expanded services to Israel and Europe" },
+      { "year": "2024", "event": "Awarded Best Korea Inbound Agency by KTO" }
+    ],
+    "teamTitle": "Meet Our Team",
+    "team": [
+      { "name": "Minji Lee", "role": "CEO & Founder" },
+      { "name": "David Kim", "role": "Tour Director" },
+      { "name": "Sarah Park", "role": "Cultural Program Manager" }
+    ]
+  },
+  "services": {
+    "header": "Our Services",
+    "categories": [
+      {
+        "title": "Tour Packages",
+        "description": "Explore curated tour packages to the most popular destinations in Korea.",
+        "details": [
+          "Daily departures from Seoul & Busan",
+          "Professional guides with multilingual support",
+          "All-inclusive pricing with meals, tickets, and transport"
+        ]
+      },
+      {
+        "title": "Custom Travel",
+        "description": "Design your own adventure with help from our travel consultants.",
+        "details": [
+          "Flexible duration & budget",
+          "Expert itinerary planning",
+          "Dedicated personal assistant"
+        ]
+      },
+      {
+        "title": "Cultural Experiences",
+        "description": "Hands-on experiences to immerse yourself in Korean traditions.",
+        "details": [
+          "Hanbok wearing & photo session",
+          "Kimchi & Korean food cooking classes",
+          "Temple stay & tea ceremonies"
+        ]
+      }
+    ],
+    "reviewsTitle": "What Our Customers Say",
+    "reviews": [
+      {
+        "name": "Emily R.",
+        "comment": "The hanbok photoshoot was amazing and the tour guide was super friendly!"
+      },
+      {
+        "name": "Oren Z.",
+        "comment": "Excellent organization and detailed attention to our requests. Will book again."
+      }
+    ]
+  },
+  "tourPackages": {
+    "title": "Tour Packages",
+    "description": "Explore our themed tour packages covering culture, nature, and history.",
+    "cta": "Contact for Booking",
+    "error": "Failed to load tour package information.",
+    "packages": [
+      {
+        "title": "Seoul Highlights One Day Tour",
+        "image": "/seoul-tour.jpg",
+        "details": "Visit Gyeongbokgung Palace, Bukchon Hanok Village, Myeongdong and more in one day.",
+        "highlights": [
+          "Hanbok experience included",
+          "Korean lunch provided",
+          "Multilingual guide"
+        ]
+      },
+      {
+        "title": "Busan & Haeundae 2-Day Tour",
+        "image": "/busan-tour.jpg",
+        "details": "Enjoy Korea's southern coastal city Busan with sea, food, and nightlife.",
+        "highlights": [
+          "Gamcheon Culture Village & Haeundae Beach",
+          "Fish market visit",
+          "1-night hotel included"
+        ]
+      },
+      {
+        "title": "Korean Historical Sites Tour",
+        "image": "/history-tour.jpg",
+        "details": "A cultural heritage tour including Gyeongju, Andong and other UNESCO cities.",
+        "highlights": [
+          "Bulguksa Temple & Seokguram Grotto",
+          "Hanok guesthouse stay",
+          "Cultural interpreter included"
+        ]
+      }
+    ]
+  },
+  "customTravel": {
+    "title": "Custom Travel",
+    "description": "We design personalized travel plans based on your interests and schedule.",
+    "featuresTitle": "Key Features",
+    "features": [
+      "Tailored itineraries",
+      "Expert local guides",
+      "Flexible booking and changes"
+    ],
+    "benefitsTitle": "Customer Benefits",
+    "benefits": [
+      "Optimized plans based on your preferences",
+      "Private travel experience",
+      "Budget-friendly planning"
+    ],
+    "cta": "Request a Custom Consultation"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "For travel inquiries or any other questions, please fill out the form below.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send"
+  },
+  "culturalExperience": {
+    "title": "Cultural Experience",
+    "description": "Explore a variety of programs where you can experience Korea's traditional and modern culture.",
+    "cta": "Apply for Cultural Experience",
+    "programs": [
+      {
+        "name": "Hanbok Experience",
+        "image": "/hanbok.jpg",
+        "details": "Wear traditional Hanbok and walk around palaces while taking photos.",
+        "highlights": [
+          "Free Hanbok rental included",
+          "Professional photographer provided",
+          "Palace entrance ticket included"
+        ]
+      },
+      {
+        "name": "Korean Cooking Class",
+        "image": "/cooking.jpg",
+        "details": "Make traditional Korean dishes like Kimchi and Bulgogi yourself.",
+        "highlights": [
+          "All ingredients provided",
+          "Tasting included",
+          "Recipe book included"
+        ]
+      },
+      {
+        "name": "Traditional Music & Dance Workshop",
+        "image": "/music.jpg",
+        "details": "Learn Korean traditional arts like Samulnori and Fan Dance.",
+        "highlights": [
+          "Taught by expert instructors",
+          "Instruments/costumes provided",
+          "Group participation available"
+        ]
+      }
+    ]
+  }
+}
