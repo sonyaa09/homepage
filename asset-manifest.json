@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.f5e735d9.css",
-    "main.js": "/homepage/static/js/main.507ca5e7.js",
+    "main.css": "/homepage/static/css/main.dc1e3515.css",
+    "main.js": "/homepage/static/js/main.95a37055.js",
     "static/js/453.932714fa.chunk.js": "/homepage/static/js/453.932714fa.chunk.js",
-    "static/media/home-thumb.jpg": "/homepage/static/media/home-thumb.3ea394714e3e0fe5e314.jpg",
+    "static/media/temple.jpg": "/homepage/static/media/temple.aa5405260e9dba138404.jpg",
+    "static/media/makeup.jpg": "/homepage/static/media/makeup.62bb65f1d08c8c223951.jpg",
+    "static/media/hanbok.jpeg": "/homepage/static/media/hanbok.28e7b87b3f4206e0fcbb.jpeg",
+    "static/media/cooking.jpg": "/homepage/static/media/cooking.058f3c834f25a293980d.jpg",
+    "static/media/kpop.jpeg": "/homepage/static/media/kpop.7bfd0e717b795b6fc222.jpeg",
     "index.html": "/homepage/index.html",
-    "main.f5e735d9.css.map": "/homepage/static/css/main.f5e735d9.css.map",
-    "main.507ca5e7.js.map": "/homepage/static/js/main.507ca5e7.js.map",
+    "main.dc1e3515.css.map": "/homepage/static/css/main.dc1e3515.css.map",
+    "main.95a37055.js.map": "/homepage/static/js/main.95a37055.js.map",
     "453.932714fa.chunk.js.map": "/homepage/static/js/453.932714fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5e735d9.css",
-    "static/js/main.507ca5e7.js"
+    "static/css/main.dc1e3515.css",
+    "static/js/main.95a37055.js"
   ]
 }
