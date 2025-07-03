@@ -48,11 +48,14 @@ function App() {
             <Route path="/custom-travel" element={<CustomTravel />} />
             <Route path="/tour-packages" element={<TourPackages />} />
             <Route path="/cultural-experience" element={<CulturalExperience />} />
-
+            <Route path="/homepage" element={<Home />} />
           </Routes>
+          <Home />
         </main>
         <Footer />
       </div>
     </Router>
   );
 }
+
+export default App; 
