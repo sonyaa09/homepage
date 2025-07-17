@@ -1,20 +1,39 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.dc1e3515.css",
-    "main.js": "/homepage/static/js/main.95a37055.js",
+    "main.css": "/homepage/static/css/main.f9503a17.css",
+    "main.js": "/homepage/static/js/main.9e7eafe3.js",
     "static/js/453.932714fa.chunk.js": "/homepage/static/js/453.932714fa.chunk.js",
+    "static/media/blog5.png": "/homepage/static/media/blog5.49d5102d10ef46b4b3b8.png",
+    "static/media/custom.jpg": "/homepage/static/media/custom.5fecb8ab5c1b45e29918.jpg",
+    "static/media/KakaoTalk_Photo_2025-07-08-23-39-28 025.jpeg": "/homepage/static/media/KakaoTalk_Photo_2025-07-08-23-39-28 025.29d5e35dbe5ea5979648.jpeg",
+    "static/media/KakaoTalk_Photo_2025-07-08-23-39-25 001.jpeg": "/homepage/static/media/KakaoTalk_Photo_2025-07-08-23-39-25 001.ae0b766a6f6f3bb04631.jpeg",
+    "static/media/KakaoTalk_Photo_2025-07-08-23-39-41 010.jpeg": "/homepage/static/media/KakaoTalk_Photo_2025-07-08-23-39-41 010.8c979a5fef5af84fefcc.jpeg",
+    "static/media/blog2.png": "/homepage/static/media/blog2.1a56d50db2a446a3184f.png",
+    "static/media/slide2.jpg": "/homepage/static/media/slide2.61ce854ecbc3702b6e1f.jpg",
     "static/media/temple.jpg": "/homepage/static/media/temple.aa5405260e9dba138404.jpg",
+    "static/media/blog1.png": "/homepage/static/media/blog1.4b2d28c30db750816057.png",
+    "static/media/slide3.jpg": "/homepage/static/media/slide3.3cebeaaaafebd6ea38d7.jpg",
+    "static/media/aboutHero.jpg": "/homepage/static/media/aboutHero.5c6c9836a4d3485d1f42.jpg",
     "static/media/makeup.jpg": "/homepage/static/media/makeup.62bb65f1d08c8c223951.jpg",
+    "static/media/slide4.jpg": "/homepage/static/media/slide4.43e45f8fde046249b681.jpg",
     "static/media/hanbok.jpeg": "/homepage/static/media/hanbok.28e7b87b3f4206e0fcbb.jpeg",
+    "static/media/slide1.jpg": "/homepage/static/media/slide1.2f98418e7e77342e42e7.jpg",
     "static/media/cooking.jpg": "/homepage/static/media/cooking.058f3c834f25a293980d.jpg",
+    "static/media/blog3.png": "/homepage/static/media/blog3.0f9cde31418cbea8e1fa.png",
+    "static/media/blog4.png": "/homepage/static/media/blog4.27aa10390010180a5c31.png",
+    "static/media/package.jpg": "/homepage/static/media/package.124efb108d1caa70cb7b.jpg",
+    "static/media/teamPhoto.jpg": "/homepage/static/media/teamPhoto.eaf2f0fb7f4d53f41481.jpg",
+    "static/media/package1.jpg": "/homepage/static/media/package1.cc64ccd1b9582d275fa0.jpg",
+    "static/media/package2.jpg": "/homepage/static/media/package2.eb5aaa1a1199557895a3.jpg",
     "static/media/kpop.jpeg": "/homepage/static/media/kpop.7bfd0e717b795b6fc222.jpeg",
+    "static/media/package3.jpg": "/homepage/static/media/package3.513549a9162f0ce3e646.jpg",
     "index.html": "/homepage/index.html",
-    "main.dc1e3515.css.map": "/homepage/static/css/main.dc1e3515.css.map",
-    "main.95a37055.js.map": "/homepage/static/js/main.95a37055.js.map",
+    "main.f9503a17.css.map": "/homepage/static/css/main.f9503a17.css.map",
+    "main.9e7eafe3.js.map": "/homepage/static/js/main.9e7eafe3.js.map",
     "453.932714fa.chunk.js.map": "/homepage/static/js/453.932714fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc1e3515.css",
-    "static/js/main.95a37055.js"
+    "static/css/main.f9503a17.css",
+    "static/js/main.9e7eafe3.js"
   ]
 }
